@@ -1,0 +1,87 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+.container
+{
+   margin-bottom: 40px;
+}
+.background-orange
+{
+   background-color: #fceae8;
+}
+
+.carousel-item 
+{
+   padding: 20px 50px;
+}
+.price
+{
+   color:rgb(233, 27, 233)
+}
+.button
+{
+   background-image:linear-gradient(to bottom, rgb(125, 114, 224) 0%, rgb(125, 114, 224) 100%);
+   border: none;
+   border-radius: 5px;
+   color:aliceblue;
+   font-weight: bold;
+   padding: 5px 10px;
+}
+
+.c1
+{
+   background-image:linear-gradient(to right, rgb(243, 180, 21) 0%, rgb(210, 184, 17) 100%);
+   padding:10px 30px;
+   
+}
+.c2
+{
+   background-image:linear-gradient(to right, rgb(7, 166, 171) 0%, rgb(91, 229, 236) 100%);
+   padding:10px 30px;
+   display: flex;
+   
+}
+.c3
+{
+   background-image:linear-gradient(to right, rgb(90, 5, 142) 0%, rgb(143, 59, 233) 100%);
+   padding:10px 30px;
+}
+.c1, .c2, .c3 h1
+{
+   color:white;
+   font-weight: bold;
+}
+.categories img
+{
+   width: 100px;
+}
+.card
+{
+   border: none;
+   box-shadow: 5px 5px 10px lightgray;
+}
+.card h6
+{
+   font-weight: bold;
+}
+.card-footer
+{
+   background-color: white;
+   border-top: none;
+}
+.card-title
+{
+   font-weight: bold;
+}
+.footer
+{
+   padding: 40px 0;
+}
+.input{
+   float: left;
+}
+.shoe-title, .backpack-title, .categories-title
+{
+   font-weight: bold;
+}
